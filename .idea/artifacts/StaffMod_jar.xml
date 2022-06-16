@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="StaffMod:jar">
+    <output-path>$PROJECT_DIR$/../../Serveur test/plugins</output-path>
+    <root id="archive" name="StaffMod.jar">
+      <element id="module-output" name="StaffMod" />
+    </root>
+  </artifact>
+</component>

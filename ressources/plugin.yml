@@ -1,0 +1,7 @@
+name: StaffMod
+author: PaperGX
+version: 1.0
+main: fr.papergx.staffmod.StaffMod
+commands:
+  Staff:
+    description: Commande pour passer en mode staff
